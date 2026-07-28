@@ -40,15 +40,13 @@ _"AI가 잘 이해하는 지식은, 잘게 나뉘어 서로 촘촘히 연결된 
 ### 1) 폴더·파일 둘러보기
 
 옵시디언 볼트 내 `Contents` · `Ontology` 폴더 구조 :
-https://github.com/user-attachments/assets/d48d2ab3-fc11-47e1-9cbc-201cfb879a3f
-<img width="2959" height="2632" alt="1_둘러보기" src="https://github.com/user-attachments/assets/ba2f8752-1c87-41c0-a420-13708f3e5b9e" />
+<img src="assets/demo-file-structure.gif" alt="옵시디언에서 Contents·Ontology 폴더를 둘러보는 모습" width="720">
 
 
 ### 2) 지식그래프 둘러보기
 
 AI가 만든 개념들이 서로 링크로 연결되어 만들어지는 **지식그래프(Graph View)** :
-https://github.com/user-attachments/assets/8579ecee-4270-4a3b-a055-55b4d77a4831
-<img width="1477" height="1015" alt="2_지식그래프" src="https://github.com/user-attachments/assets/f0d3edb1-0dc1-4f5a-b361-ba5c2df79f88" />
+<img src="assets/demo-knowledge-graph.gif" alt="옵시디언 지식그래프(Graph View)를 둘러보는 모습" width="720">
 
 ---
 
